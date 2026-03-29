@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+deepface==0.0.83
+pandas
+numpy
+pillow
+tensorflow==2.15.0
+keras==2.15.0
